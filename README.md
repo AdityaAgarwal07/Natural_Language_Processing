@@ -1,3 +1,3 @@
 # Natural_Language_Processing
 
-This is me learing nlp
+This is me learning nlp.
